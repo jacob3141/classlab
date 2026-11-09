@@ -1,3 +1,5 @@
+[![ko-fi](https://ko-fi.com/img/githubbutton_sm.svg)](https://ko-fi.com/jacob3141)
+
 # ![classlab](web/static/assets/images/classlab-logo-with-border.png)
 
 [![license](https://img.shields.io/github/license/mashape/apistatus.svg)](https://github.com/classlab/classlab/blob/master/LICENSE)
